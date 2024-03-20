@@ -26,7 +26,7 @@ What You'll Find Here
 Get in Touch
 📫 Contact: Have a question, suggestion, or just want to say hi? Feel free to reach out to me via email at abhijitnanda8249@gmail.com .
 
-🔗 Connect: Let's connect on LinkedIn: hhtps://www.linkedin.com/in/abhijit-nanda .
+🔗 Connect: Let's connect on LinkedIn: hhtps://www.linkedin.com/in/abhijit-nanda . Here is my Portfolio Link https://abhi051002.github.io/portfolio/
 
 Support
 If you find any of my projects helpful or interesting, please consider giving them a ⭐️. Your support means a lot to me and encourages me to keep creating and sharing.
