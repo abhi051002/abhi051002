@@ -9,9 +9,9 @@ I'm now working on @Hyscaler as a Junior Software Developer since August 2023.
 
 **Technologies**:
        <br><ul><li>Html , Css , Javascript , PHP ,Laravel , Filament , Livewire , React</li></ul>
-<br>**Database**:
+**Database**:
         <br><ul><li>Sql , DBMS , Postgresql</li></ul>
-<br>*Extra*:
+*Extra*:
        <br><ul><li>Git , Vscode</li></ul><br>
 
 Get in Touch
