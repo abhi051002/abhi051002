@@ -15,7 +15,7 @@ I'm now working on @Hyscaler as a Junior Software Developer since August 2023.
        - Git , Vscode
 
 Get in Touch
-📫 Contact: Have a question, suggestion, or just want to say hi? Feel free to reach out to me via email at [✉️](abhijitnanda8249@gmail.com) (abhijitnanda8249@gmail.com).
+📫 Contact: Have a question, suggestion, or just want to say hi? Feel free to reach out to me via email at [✉️](mailto:abhijitnanda8249@gmail.com) (abhijitnanda8249@gmail.com).
 
 🔗 Connect: Let's connect on [LinkedIn](https://www.linkedin.com/in/abhijit-nanda) . Here is my [Portfolio Link](https://abhi051002.github.io/portfolio/) 🚀
 
