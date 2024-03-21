@@ -8,9 +8,9 @@ I'm Abhijit Nanda, a passionate software developer with a keen interest in Web d
 I'm now working on @Hyscaler as a Junior Software Developer since August 2023.
 
 **Technologies**:
-       <br><ul><li>Html , Css , Javascript , PHP ,Laravel , Filament , Livewire , React</li></ul><br>
+       <br><ul><li>Html , Css , Javascript , PHP ,Laravel , Filament , Livewire , React</li></ul>
 <br>**Database**:
-        <br><ul><li>Sql , DBMS , Postgresql</li></ul><br>
+        <br><ul><li>Sql , DBMS , Postgresql</li></ul>
 <br>*Extra*:
        <br><ul><li>Git , Vscode</li></ul><br>
 
